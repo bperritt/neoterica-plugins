@@ -1,0 +1,10 @@
+name: SaveState
+version: ${project.version}
+main: me.aphotic.savestate.SaveState
+authors: [aphotic]
+description: Save your position in a minecraft world
+commands:
+  save:
+    description: saves state
+  load:
+    description: loads save state via a gui

@@ -1,0 +1,9 @@
+me/aphotic/savestate/gson/LocationAdapter.class
+me/aphotic/savestate/commands/CommandLoad.class
+me/aphotic/savestate/events/EventClick.class
+me/aphotic/savestate/SaveState.class
+me/aphotic/savestate/commands/CommandSave.class
+me/aphotic/savestate/gson/GsonManagement.class
+me/aphotic/savestate/SaveLocation.class
+me/aphotic/savestate/SaveState$1.class
+me/aphotic/savestate/events/EventLogin.class

@@ -1,0 +1,10 @@
+name: SaveState
+version: 1.0-SNAPSHOT
+main: me.aphotic.savestate.SaveState
+authors: [aphotic]
+description: Save your position in a minecraft world
+commands:
+  save:
+    description: saves state
+  load:
+    description: loads save state via a gui

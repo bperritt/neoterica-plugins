@@ -1,0 +1,8 @@
+name: DropParty
+version: 1.0-SNAPSHOT
+main: me.aphotic.dropparty.DropParty
+authors: [aphotic]
+description: Customizable vault drop party
+commands:
+  dropparty:
+    description: executes a drop party

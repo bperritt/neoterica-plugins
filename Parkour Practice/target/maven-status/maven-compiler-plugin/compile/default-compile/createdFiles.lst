@@ -1,0 +1,7 @@
+me\aphotic\parkourpractice\commands\CommandPractice.class
+me\aphotic\parkourpractice\gson\GsonManagement.class
+me\aphotic\parkourpractice\gson\LocationAdapter.class
+me\aphotic\parkourpractice\ParkourPractice$1.class
+me\aphotic\parkourpractice\ParkourPractice.class
+me\aphotic\parkourpractice\commands\CommandUnpractice.class
+me\aphotic\parkourpractice\commands\CommandReturnToCP.class

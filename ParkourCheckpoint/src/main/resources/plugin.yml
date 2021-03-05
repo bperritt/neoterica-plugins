@@ -1,0 +1,10 @@
+name: ParkourCheckpoints
+version: ${project.version}
+main: me.aphotic.parkourcheckpoints.ParkourCheckpoints
+authors: [Aphotic]
+description: Turns iron pressure plates into checkpoints in a specified world
+commands:
+  returntoskyparkourcp:
+    description: returns player to last sky parkour checkpoint
+  deleteskyparkourcp:
+    description: deletes sky parkour checkpoint

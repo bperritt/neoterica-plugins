@@ -1,0 +1,12 @@
+name: ParkourPractice
+version: ${project.version}
+main: me.aphotic.parkourpractice.ParkourPractice
+authors: [Aphotic]
+description: Practice mode plugin for minecraft parkour
+commands:
+  practice:
+    description: puts player in practice mode
+  unpractice:
+    description: takes player out of practice mode
+  returntocp:
+    decription: returns to checkpoint

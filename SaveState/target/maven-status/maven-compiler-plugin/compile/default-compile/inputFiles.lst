@@ -1,0 +1,8 @@
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/commands/CommandLoad.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/events/EventClick.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/events/EventLogin.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/gson/LocationAdapter.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/commands/CommandSave.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/SaveState.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/SaveLocation.java
+/home/aphotic/Programs/Neoterica/SaveState/src/main/java/me/aphotic/savestate/gson/GsonManagement.java

@@ -1,0 +1,8 @@
+name: AxisCompass
+version: ${project.version}
+main: me.aphotic.axiscompass.AxisCompass
+authors: [aphotic]
+description: Points compass at an axis
+commands:
+  setcompass:
+    description: sets compass to certain axis
